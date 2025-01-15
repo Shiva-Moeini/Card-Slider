@@ -9,5 +9,6 @@ A simple and responsive card slider built with HTML, CSS, and JavaScript, using 
 - **Interactive Elements**: Cards feature images, descriptions, and a "View More" button.
 
 ## Dependencies
-Swiper.js: The Swiper library is used for the card slider functionality.
-Swiper
+-Swiper.js: The Swiper library is used for the card slider functionality.
+
+-Swiper
